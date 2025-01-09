@@ -1,9 +1,9 @@
 import React from "react";
-import arrowDownIcon from "../assets/icon_logo/arrow-down-svgrepo-com.svg"; // Adjust the path based on your project structure
+import arrowDownIcon from "../assets/icon_logo/arrow-down-svgrepo-com.svg";
 
 const Footer = () => {
   return (
-    <footer className="w-[98%] mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-5">
+    <footer className="w-[98%] mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-5 mt-14">
       <div className="lg:col-span-2 md:max-2xl:text-left md:w-[85%] mx-auto text-center">
         <h1 className="font-bold text-3xl text-primary6">Easy</h1>
         <h1 className="font-bold text-3xl text-primary3">ahead</h1>
