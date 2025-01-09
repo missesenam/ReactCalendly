@@ -26,7 +26,7 @@ const Teams = () => {
             dolor, sit amet consectetur adipisicing elit. Culpa ut ullam
             possimus quos? Impedit tempora nam unde.
           </p>
-          <div className="rounded-3xl flex justify-between mt-4 w-[90%] flex lg:w-[100%]">
+          <div className="rounded-3xl flex justify-between mt-4 w-[90%] lg:w-[100%]">
             <button className="py-2 px-10 bg-primary3 text-primary2 rounded-3xl">
               start for free
             </button>
@@ -73,7 +73,7 @@ const Teams = () => {
             dolor, sit amet consectetur adipisicing elit. Culpa ut ullam
             possimus quos? Impedit tempora nam unde.
           </p>
-          <div className="rounded-3xl flex justify-between mt-4 w-[90%] flex lg:w-[100%]">
+          <div className="rounded-3xl flex justify-between mt-4 w-[90%] lg:w-[100%]">
             <button className="py-2 px-10 bg-primary3 text-primary2 rounded-3xl">
               start for free
             </button>
